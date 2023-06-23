@@ -1,0 +1,9 @@
+Morado primario:     #312945
+Morado secundario: #373050
+Amarillo  primario: #C9D115
+Amarillo secundario: #AEAE15
+
+yo tenia estos para el verde y azul
+
+#2B2846
+#C0D239

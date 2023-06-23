@@ -1,0 +1,40 @@
+Hacer Cambios en movil_ob_vtr
+
+cambiar estos campos 
+
+Poner Descuento Ofrecido en Tipo venta
+
+Poner ID ecommerce en codigo svent 
+
+// eliminar todo lo que corresponde al codigo svent(validacion, readonly), agregar el campo a la Base
+
+Ambos campos son obligatorios cuando es una Venta
+
+
+36174928 n° atencion 1
+
+41258634 n° atencion 2
+
+
+loren.sanhueza@dsacchile.cl
+
+-----------------------------------------------------
+Sistema de Calidad
+
+crear modulo Objetivos en Evaluacion
+
+
+Link.js Gestion Objetivo
+
+Agregar
+
+Servicios Cargar los que estan en Calidad
+Perfil Admin Calidad-Formador-Evaluador-Calidad
+Objetivo Diarios
+Dias Evaluacion
+
+Modificar y Eliminar
+----------------------------------------
+quartil
+
+17:00 entrevista laboral

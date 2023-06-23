@@ -1,0 +1,15 @@
+COLORES
+
+
+//En proceso Amarillo, Cerrado en Verde, Pendiente en Rojo ***
+
+INTERACCION VALIDACION CAMPOS
+
+tipo solicitud **
+
+SUBIR ARCHIVO
+
+INTEGRACION CON LA INTRANET
+PERFIL DESARROLLO
+
+validar select del datatable para que muestre solo ticket del usuario
